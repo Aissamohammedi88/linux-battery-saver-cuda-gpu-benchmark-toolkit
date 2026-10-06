@@ -1,4 +1,4 @@
-# linux-battery-saver-cuda-gpu-benchmark-toolkit
+# linux-battery-saver-cuda-gpu-benchmark-toolkit+smi not nvdia driver = nexus driver smi open source
 Open-source Linux battery saver + CUDA GPU benchmark. Optimizes power, tests Java Rust Python C++ JS Go CUDA. For Ubuntu, Mint, Debian.
 # Linux Battery Saver & CUDA GPU Benchmark Toolkit
 
